@@ -45,13 +45,13 @@
 }
 
 .layer-1 {
-  background-image: url("/img/layer-1.jpg");
+  background-image: url("../img/layer-1.jpg");
 
   transform: translateZ(-80px) scale(1.1);
 }
 
 .layer-2 {
-  background-image: url("/img/layer-2.png");
+  background-image: url("../img/layer-2.png");
 
   transform: translateZ(80px) scale(1);
 }
@@ -70,19 +70,19 @@
 }
 
 .layer-4 {
-  background-image: url("/img/layer-4.png");
+  background-image: url("../img/layer-4.png");
 
   transform: translateZ(100px) scale(0.9);
 }
 
 .layer-5 {
-  background-image: url("/img/layer-5.png");
+  background-image: url("../img/layer-5.png");
 
   transform: translateZ(160px) scale(0.9);
 }
 
 .layer-6 {
-  background-image: url("/img/layer-6.png");
+  background-image: url("../img/layer-6.png");
   background-repeat: repeat;
 
   transform: translateZ(200px) scale(0.9);
